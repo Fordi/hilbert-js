@@ -1,0 +1,4 @@
+({
+	"name" : "hilbert",
+	"out" : "dist/hilbert.js"
+})
